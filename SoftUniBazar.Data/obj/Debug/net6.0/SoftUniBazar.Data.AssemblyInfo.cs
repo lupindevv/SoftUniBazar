@@ -13,7 +13,7 @@ using System.Reflection;
 [assembly: System.Reflection.AssemblyCompanyAttribute("SoftUniBazar.Data")]
 [assembly: System.Reflection.AssemblyConfigurationAttribute("Debug")]
 [assembly: System.Reflection.AssemblyFileVersionAttribute("1.0.0.0")]
-[assembly: System.Reflection.AssemblyInformationalVersionAttribute("1.0.0")]
+[assembly: System.Reflection.AssemblyInformationalVersionAttribute("1.0.0+df9395cdd5e511089adb4aa3de527570add3932e")]
 [assembly: System.Reflection.AssemblyProductAttribute("SoftUniBazar.Data")]
 [assembly: System.Reflection.AssemblyTitleAttribute("SoftUniBazar.Data")]
 [assembly: System.Reflection.AssemblyVersionAttribute("1.0.0.0")]
